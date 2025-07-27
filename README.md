@@ -63,3 +63,9 @@ Make sure Python 3 is installed on your system.
 Clone or download the repository.
 
 Open any .py file with your preferred IDE or terminal:
+
+
+## 📌 Final Note
+
+These projects reflect my early Python journey. I’ll continue updating this repository as I build more projects and explore new concepts. Stay tuned!
+
